@@ -368,6 +368,7 @@ echo -e "${jeshile} └───────────────────
 echo " "
 #mkdir /var/www/html
 #cd /var/www/html #DESTINACIONI KRYESOR ADMIN - TEMPLATES ETC
+apt install unzip
 cd /home/ubuntu && wget https://www.dropbox.com/s/ijd0iy4le55bx74/Xtream_Codes_v1.0.60_Nulled.zip
 sudo unrar x go.part01.rar
 cp -R /home/ubuntu/Xtream_Codes_v1.0.60_Nulled.zip  /var/www/html/
